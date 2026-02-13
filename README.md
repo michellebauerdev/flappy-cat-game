@@ -21,7 +21,9 @@ visuals
 
 run  
 
-clone the repository
-
 ```bash
 git clone https://github.com/michellebauerdev/flappy-cat-game.git
+cd flappy-cat-game
+cd src
+javac *.java
+java App

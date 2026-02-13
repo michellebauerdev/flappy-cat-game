@@ -5,27 +5,20 @@
 A minimal Java arcade game.  
 Guide a small flying cat through endless obstacles.
 
+space — jump
 
-# Controls
+—
 
-`Space` — jump
+Flappy Cat is inspired by the classic flappy-style gameplay.  
+Simple mechanics, custom pixel-art visuals, neon skyline atmosphere.
 
+features
+• infinite obstacle generation  
+• collision detection  
+• score tracking  
+• custom sprites + background  
 
-# About
-
-Flappy Cat is a small Java project inspired by the classic flappy bird gameplay.  
-Simple mechanics, custom pixel-art visuals, futuristic skyline atmosphere.
-
-
-# Features
-
-- Infinite obstacle generation  
-- Collision detection  
-- Score tracking  
-- Custom sprites + background  
-
-
-# Run
+run
 
 ```bash
-git clone https://github.com/michellebauerdev/flappy-cat-game.git
+git clone https://github.com/YOUR_USERNAME/flappy-cat-game.git

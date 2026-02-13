@@ -1,7 +1,5 @@
 # Flappy Cat ౨ৎ
 
-![Flappy Cat Gameplay](assets/gameplay.png)
-
 A minimal Java arcade game.  
 Guide a small flying cat through endless obstacles.
 
@@ -17,6 +15,9 @@ features
 • collision detection  
 • score tracking  
 • custom sprites + background  
+
+visuals
+![Flappy Cat Gameplay](assets/gameplay.png)
 
 run
 

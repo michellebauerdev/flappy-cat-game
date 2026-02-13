@@ -24,4 +24,4 @@ run
 clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/flappy-cat-game.git
+git clone https://github.com/michellebauerdev/flappy-cat-game.git

@@ -19,7 +19,7 @@ visuals
 
 ![Flappy Cat Gameplay](assets/gameplay.png)
 
-run  
+to run the game locally via terminal:
 
 ```bash
 git clone https://github.com/michellebauerdev/flappy-cat-game.git
